@@ -1,0 +1,31 @@
+#EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz,https://github.com/whythishome/epg/raw/refs/heads/master/guides/dishtv.in_en.xml.gz" x-billed-message="StreamX"
+# Generated: 07 Jul 2026, 13:14:03
+
+
+#EXTINF:-1 tvg-id="undefined" group-title="FIFA 2026 | HD Stream" group-logo="https://newsonair.gov.in/wp-content/uploads/2026/06/FIFA-1.png" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_720,h_405,c_scale,f_webp,q_auto:eco/resources/0-9-zeecafehd/list/1920x1080list60cd7fc8b57c4e1baf1cd4f603413540.jpg",Unite8 Sports 1 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000:0000
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+#EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+https://yowaimo.in/Sflex-ArtlPVT0719/AND_FLIX_HD.m3u8
+
+#EXTINF:-1 tvg-id="undefined" group-title="FIFA 2026 | HD Stream" group-logo="https://newsonair.gov.in/wp-content/uploads/2026/06/FIFA-1.png" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_720,h_405,c_scale,f_webp,q_auto:eco/resources/0-9-channel_2105335046/list/1920x1080list88f79d7c74df4d998da1bbd448f465ff.jpg",Unite8 Sports 2 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000:0000
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+#EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+https://yowaimo.in/Sflex-ArtlPVT0719/AND_FLIX_HD.m3u8
+
+#EXTINF:-1 tvg-id="undefined" group-title="FIFA 2026 | HD Stream" group-logo="https://newsonair.gov.in/wp-content/uploads/2026/06/FIFA-1.png" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/upsspx1433379567.png",TSN 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+#EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
+
+#EXTINF:-1 tvg-id="undefined" group-title="FIFA 2026 | HD Stream" group-logo="https://newsonair.gov.in/wp-content/uploads/2026/06/FIFA-1.png" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2025/06/fox-world-cup-2026.jpg",FOX SPORTS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+#EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
